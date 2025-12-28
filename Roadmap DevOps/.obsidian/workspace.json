@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "a53300cb726be955",
+    "type": "split",
+    "children": [
+      {
+        "id": "6579555548d0aae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b11ba1bba7c48abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Блок 1 - Сети + Git (фундамент + контроль версий)/Конспект/Git/init clone commit branch push.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "init clone commit branch push"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d78e84624eba350a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4609d176f6b74994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c8485cd9042bd9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "f61491e4fc63f548",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "0eb89f9c15587c72",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 624
+  },
+  "right": {
+    "id": "a0c57528ad7ecd5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7b11150612dea5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1faf991c593307ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Блок 1 - Сети + Git (фундамент + контроль версий)/1. Сети - OSI, TCP UDP, IP DNS MAC (nslookup ping curl)/OSI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для OSI"
+            }
+          },
+          {
+            "id": "d79501c5a4ed40e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Блок 1 - Сети + Git (фундамент + контроль версий)/1. Сети - OSI, TCP UDP, IP DNS MAC (nslookup ping curl)/OSI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из OSI"
+            }
+          },
+          {
+            "id": "5bf4b92e69ee33c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b7cb37c7b19ff8b9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "67ca6c111ea551ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Блок 1 - Сети + Git (фундамент + контроль версий)/1. Сети - OSI, TCP UDP, IP DNS MAC (nslookup ping curl)/OSI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура OSI"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "b11ba1bba7c48abf",
+  "lastOpenFiles": [
+    "Блок 1 - Сети + Git (фундамент + контроль версий)/Конспект/Git/Связь Git и githab.md",
+    "Блок 1 - Сети + Git (фундамент + контроль версий)/2. Практика DevOps.md",
+    "Блок 1 - Сети + Git (фундамент + контроль версий)/Конспект/Git/init clone commit branch push.md",
+    "Блок 1 - Сети + Git (фундамент + контроль версий)/1. МАТЕРИАЛ.md",
+    "Блок 1 - Сети + Git (фундамент + контроль версий)/3. Практика сайта.md",
+    "Блок 1 - Сети + Git (фундамент + контроль версий)/Конспект/Сети/Надёжность и потери пакетов.md",
+    "Блок 10 - Полная интеграция + мониторинг/Конспект/Полная цепочка.md",
+    "Блок 10 - Полная интеграция + мониторинг/1. МАТЕРИАЛ.md",
+    "Блок 9 - ArgoCD (GitOps для K8s)/Конспект/Установка ArgoCD в Minikube.md",
+    "Блок 9 - ArgoCD (GitOps для K8s)/Конспект/Настройка приложений, auto‑sync из Git‑репозитория.md",
+    "Блок 9 - ArgoCD (GitOps для K8s)/1. МАТЕРИАЛ.md",
+    "Блок 6 - Kubernetes (оркестрация)/Конспект/Базовый Helm.md",
+    "Блок 6 - Kubernetes (оркестрация)/Конспект/Объекты - Pod, Deployment, Service, ConfigMap, PersistentVolume.md",
+    "Блок 6 - Kubernetes (оркестрация)/Конспект/Minikube, `kubectl`.md",
+    "Блок 8 - Kafka (message broker)/Конспект/Понятия - topic, partition, producer, consumer.md",
+    "Блок 8 - Kafka (message broker)/Конспект/Docker‑кластер Kafka + Zookeeper.md",
+    "Блок 8 - Kafka (message broker)/1. МАТЕРИАЛ.md",
+    "Блок 7 - Ansible (IaC конфигурация)/Конспект/Ansible - inventory, playbooks, roles, модули.md",
+    "Блок 7 - Ansible (IaC конфигурация)/1. МАТЕРИАЛ.md",
+    "Блок 6 - Kubernetes (оркестрация)/1. МАТЕРИАЛ.md",
+    "Блок 6 - Kubernetes (оркестрация)/2. Практика DevOps.md",
+    "Блок 6 - Kubernetes (оркестрация)/3. Практика сайта.md",
+    "Блок 5 - CI_CD концепции + Jenkins (автоматизация)/1. МАТЕРИАЛ.md",
+    "Блок 5 - CI_CD концепции + Jenkins (автоматизация)/Конспект/Понятия CI_CD.md",
+    "Блок 5 - CI_CD концепции + Jenkins (автоматизация)/Конспект/Jenkins как CI‑сервер.md",
+    "Блок 4 - PostgreSQL (БД практика)/1. МАТЕРИАЛ.md",
+    "Pasted image 20251225234909.png",
+    "Без названия.canvas",
+    "Блок 1 - Сети + Git (фундамент + контроль версий)/Конспект",
+    "Pasted image 20251225234703.png",
+    "Pasted image 20251225234708.png",
+    "Pasted image 20251225233938.png",
+    "Блок 1 - Сети + Git (фундамент + контроль версий)/1. Сети - OSI, TCP UDP, IP DNS MAC (nslookup ping curl)/Без названия",
+    "Блок 10 - Полная интеграция + мониторинг/Конспект",
+    "Блок 10 - Полная интеграция + мониторинг/2. Grafana, Prometheus для всего стека (ваш опыт)",
+    "Блок 10 - Полная интеграция + мониторинг/Без названия/Без названия",
+    "Блок 10 - Полная интеграция + мониторинг/1. Pipeline - Git commit → Jenkins CI → ArgoCD deploy в K8s (Docker Postgres Kafka)",
+    "Блок 9 - ArgoCD (GitOps для K8s)/Без названия/Без названия",
+    "Блок 9 - ArgoCD (GitOps для K8s)/Конспект",
+    "Блок 9 - ArgoCD (GitOps для K8s)/3. Практика - ArgoCD manages ваш API+Postgres+Kafka",
+    "Блок 9 - ArgoCD (GitOps для K8s)/2. App deployment - Git repo sync → auto-deploy в K8s",
+    "Блок 1 - Сети + Git (фундамент + контроль версий)/Без названия.canvas"
+  ]
+}

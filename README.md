@@ -1,10 +1,23 @@
-# DevOps Learning – Block 1 (Networks & Git)
+# DevOps Learning Roadmap
 
-Папка 01-networks содержит скрипт check-network.sh:
-- nslookup google.com
-- ping 8.8.8.8
-- curl https://httpbin.org/ip
+Это мой учебный репозиторий для перехода в DevOps (из техподдержки 2‑й линии).
 
-## Запуск
-cd 01-networks
-./check-network.sh
+## Структура
+- Конспекты по блокам: папка **Roadmap DevOps**
+- Практика и скрипты: папки: **01-networks**, **02-linux**, **03-docker**, ...
+
+## Прогресс блоков
+- ☐ Блок 1 — Сети + Git (фундамент + контроль версий)
+- ☐ Блок 2 — Linux (основа всего)
+- ☐ Блок 3 — Docker (контейнеризация)
+- ☐ Блок 4 — PostgreSQL (БД практика)
+- ☐ Блок 5 — CI/CD + Jenkins (автоматизация)
+- ☐ Блок 6 — Kubernetes (оркестрация)
+- ☐ Блок 7 — Ansible (IaC конфигурация)
+- ☐ Блок 8 — Kafka (message broker)
+- ☐ Блок 9 — ArgoCD (GitOps для K8s)
+- ☐ Блок 10 — Полная интеграция + мониторинг
+
+## Как читать
+- Описание и заметки: *Roadmap DevOps/Блок N — ...*
+- Скрипты и примеры: соответствующие папки (01-networks, 02-linux, ...).
